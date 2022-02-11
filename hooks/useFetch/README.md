@@ -1,4 +1,4 @@
-## useFetcj hook
+## useFetch hook
 
 Usage:
 
